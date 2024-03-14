@@ -1,0 +1,11 @@
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x86\Release\YoEaseReport.exe
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x86\Release\YoEaseReport.pdb
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.FormPrintManager.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.FormYoEaseReport.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.Properties.Resources.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.csproj.GenerateResource.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.csproj.CoreCompileInputs.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.exe
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.pdb
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x86\Release\YoEaseReport.csproj.AssemblyReference.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x86\Release\YoEaseReport.exe.config

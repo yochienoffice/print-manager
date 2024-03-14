@@ -1,0 +1,13 @@
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x64\Debug\YoEaseReport.exe
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x64\Debug\YoEaseReport.pdb
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Paul Wu\source\repos\YoEaseReport\bin\x64\Debug\stdole.dll
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.csproj.AssemblyReference.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.FormPrintManager.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.FormYoEaseReport.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.Properties.Resources.resources
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.csproj.GenerateResource.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.csproj.CoreCompileInputs.cache
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.csproj.CopyComplete
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.exe
+C:\Users\Paul Wu\source\repos\YoEaseReport\obj\x64\Debug\YoEaseReport.pdb
